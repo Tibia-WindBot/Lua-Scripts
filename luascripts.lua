@@ -92,7 +92,7 @@ table.sort(LUA_SCRIPTS.PERSISTENTS, sortFunction)
 table.sort(LUA_SCRIPTS.HUDS, sortFunction)
 
 local HEADER_TOP = [[
-[CENTER][B][SIZE=7]List of Scripts and HUD's[/SIZE][/B][/CENTER]
+[CENTER][IMG]http://i.imgur.com/d1jSVnf.png[/IMG][/CENTER]
 
 [hr][/hr]
 
