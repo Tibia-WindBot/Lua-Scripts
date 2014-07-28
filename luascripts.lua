@@ -11,7 +11,7 @@ LUA_SCRIPTS = {
 		{link = "151#post1049", name = "Spells Attacker", author = "Leonardo"},
 		{link = "1487#post14045", name = "Loot Sorter (Ground)", author = "SuNe"},
 		{link = "1204#post11169", name = "Sio/Mass Res/Spell Healer", author = "jakub"},
-		{link = "10501#post9625", name = "Anti Furniture", author = "Leonardo"},
+		{link = "1050#post9625", name = "Anti Furniture", author = "Leonardo"},
 		{link = "812#post6804", name = "Dice Gambling", author = "xyyyyllo"},
 		{link = "696#post5505", name = "Anti Stalker", author = "Raphael"},
 		{link = "1537#post14774", name = "Food Eater", author = "Raphael"},
