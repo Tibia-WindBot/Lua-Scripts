@@ -47,6 +47,11 @@ LUA_SCRIPTS = {
 		{link = "4923#post54383", name = "Remote Info", author = "rukasu"},
 		{link = "4347#post47807", name = "Market Seller", author = "ragekemi"},
 		{link = "2345#post24058", name = "Basic Ring Equipper", author = "xyyyyllo"},
+		{link = "10591#post120693", name = "Anti Face Player", author = "Garkstal"},
+		{link = "10469#post119251", name = "Smart Healing (Any Vocation)", author = "borges"},
+		{link = "10204#post116507", name = "Auto Heal Summons", author = "borges"},
+		{link = "10448#post119020", name = "Receptacle Filler (Repenters Task)", author = "Dehan"},
+		{link = "10430#post118846", name = "Auto Summon Monster for Boss", author = "osiris ra"},
 	},
 
 	HUDS = {
